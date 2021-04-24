@@ -1,0 +1,12 @@
+name: WorldTp
+author: ThePepito
+main: ThePepito\WorldTp\worldtp
+api: 3.0.0
+version: 1.0.0
+
+commands:
+  naviguation:
+    description: Permet d'ouvrir un page avec la liste de tout les mondes! §4-Arcaniaxe
+    usage: /nav
+    aliases:
+      - nav
